@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on updates to my lifestyle brand wesbite www.coastalpeaks.io
+- 🔭 I’m currently working on updates to my lifestyle brand website and products! check it out  www.coastalpeaks.io
 - 🌱 I’m currently learning new ways to web design and all things AWS!
 
 <!--
